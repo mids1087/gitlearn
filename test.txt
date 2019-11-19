@@ -3,3 +3,6 @@ add one sentense.
 
 #second editition:
 This is the second editition
+git has a mutable index called stage...
+
+compare HEAD and workzone version...
