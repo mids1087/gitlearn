@@ -1,1 +1,2 @@
-this is a .txt file try using the git. 
+this is a .txt file try using the git. (first edit)
+add one sentense. 
